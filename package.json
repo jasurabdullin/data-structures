@@ -1,0 +1,19 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "description": "Data Structures learned and practiced by Jasur Abdullin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasurabdullin/data-structures.git"
+  },
+  "author": "Jasur Abdullin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasurabdullin/data-structures/issues"
+  },
+  "homepage": "https://github.com/jasurabdullin/data-structures#readme"
+}
